@@ -1,1 +1,1 @@
-# This repository is a short brief throught my image processus journey
+# This repository is a short brief throught out my image processus journey
